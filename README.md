@@ -14,9 +14,9 @@ To enhance the generated images, FauxFlora integrates the BLIP algorithm for ima
 
 To generate your own imaginary flower images using FauxFlora, follow these steps:
 
-1. Clone this repository to your local machine using the following command:
+1. Clone this repository to your local machine.
 
-2. Run the main generation script:
+2. Run the main generation script.
 
 
 3. Explore the generated images and their corresponding captions.
